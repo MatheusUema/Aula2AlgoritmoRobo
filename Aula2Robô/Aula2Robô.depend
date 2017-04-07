@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491575925 source:c:\users\icmc\documents\aula2robô\main.c
+	<stdio.h>
+	<stdlib.h>
+
