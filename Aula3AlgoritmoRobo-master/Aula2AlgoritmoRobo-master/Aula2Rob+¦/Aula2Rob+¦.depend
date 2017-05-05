@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1491575925 source:c:\users\icmc\documents\aula2robô\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1493985520 source:c:\users\icmc\desktop\aula2algoritmorobo-master\aula2algoritmorobo-master\aula2rob+¦\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
